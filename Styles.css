@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(85, 109, 117);
+  }
+  div {
+    width: 300px;
+    margin: auto;
+    color:#c4e027
+  }
+  body {
+    font-family: "Audiowide", sans-serif;
+  }
+  a.one:link {color:#ff0000;}
+a.one:visited {color:#0000ff;}
+/* mouse over link */
+a:hover {
+color: #c4e027;
+}
+a:link {
+text-decoration: none;
+}
+h1 {
+    width: 300px;
+    margin: auto;
+    height: 75px; 
+    color:rgb(255, 255, 255)
+}   
+h2 {
+    width: 300px;
+    margin: auto;
+    height: 75;
+    color:rgb(255, 255, 255);    
+}
+img {
+    border: 2px solid rgb(184, 10, 215);
+    border-radius: 12px;
+    padding: 5px
+}
+footer {
+    width: 300px;
+    margin: auto;
+    background-color: aquamarine;
+    font-size: larger;
+}
